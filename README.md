@@ -309,14 +309,81 @@ STEP7:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+PROCEDURE 8
+
+STEP1:
+
+
+
+
+![image](https://github.com/user-attachments/assets/11ab6fe5-0f7a-4e4b-b71d-fb8f331b73ad)
+
+
+
+
+
+
+
+STEP2:
+
+
+
+
+![image](https://github.com/user-attachments/assets/b8a1912f-a0b7-4508-b94a-34abdabf69db)
+
 
 
 
  
 
+STEP3:
+
+
+
+
+![image](https://github.com/user-attachments/assets/5caf4031-7579-4cf6-8fa6-cdea59a34e33)
+
+
+
+
+STEP4:
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/9589153c-085d-4b31-92f5-a63608805cf1)
 
 
 
 
 
 
+
+STEP5:
+
+
+
+
+![image](https://github.com/user-attachments/assets/c6c5515b-3c34-4488-a8a0-82e72a182c29)
+
+
+
+
+
+STEP6:
+
+
+
+![image](https://github.com/user-attachments/assets/bb2ae72c-4d90-4a9e-8440-259500466b52)
+
+
+
+
+
+
+STEP7:
+
+
+
+![image](https://github.com/user-attachments/assets/78bd94c1-176d-4ba9-a20e-ac6ad3f6f688)

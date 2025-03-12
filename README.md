@@ -401,9 +401,19 @@ STEP7:
 ----------------------------------------------------------------------------------------
 
 PRACTICE
+
+
+
+
 ![image](https://github.com/user-attachments/assets/a0f415ab-6b3f-4aef-95d7-3d2714c399f4)
 
+
+
+
+
 TO EXIT THIS PART 
+
+
 
 >>>shift+:
 >>>wq

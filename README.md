@@ -436,6 +436,24 @@ TO EXIT THIS PART
 
 
 
+![image](https://github.com/user-attachments/assets/639cfb76-7ae4-405b-ab72-f5fcec5f2f56)
+
+
+
+
+
+copy and paste the  
+ git push --set-upstream https://github.com/Karren3/test12.git master
+
+for git login
+
+
+
+
+
+
+
+
 
 
 
